@@ -1,3 +1,5 @@
+#1. Write a Python program to count the number of characters (character frequency) in a string. Sample String : google.com'
+
 def input_stringy(str1):
     dict = {}
     print(type(dict))
